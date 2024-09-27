@@ -1,0 +1,14 @@
+INFO [26:06:2024 06:06:14] 0log message from thread Thread-1 AppNamespace
+INFO [26:06:2024 06:06:14] 0log message from thread Thread-0 AppNamespace
+INFO [26:06:2024 06:06:14] 1log message from thread Thread-0 AppNamespace
+INFO [26:06:2024 06:06:14] 1log message from thread Thread-1 AppNamespace
+INFO [26:06:2024 06:06:14] 2log message from thread Thread-0 AppNamespace
+INFO [26:06:2024 06:06:14] 2log message from thread Thread-1 AppNamespace
+INFO [26:06:2024 06:06:14] 3log message from thread Thread-0 AppNamespace
+INFO [26:06:2024 06:06:14] 3log message from thread Thread-1 AppNamespace
+INFO [26:06:2024 06:06:14] 4log message from thread Thread-0 AppNamespace
+INFO [26:06:2024 06:06:14] 4log message from thread Thread-1 AppNamespace
+INFO [26:06:2024 06:06:14] 5log message from thread Thread-0 AppNamespace
+INFO [26:06:2024 06:06:14] 5log message from thread Thread-1 AppNamespace
+INFO [26:06:2024 06:06:14] 6log message from thread Thread-0 AppNamespace
+INFO [26:06:2024 06:06:14] 6log message from thread Thread-1 AppNamespace

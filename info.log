@@ -1,0 +1,7 @@
+INFO [26:06:2024 06:06:14] 7log message from thread Thread-0 AppNamespace
+INFO [26:06:2024 06:06:14] 7log message from thread Thread-1 AppNamespace
+INFO [26:06:2024 06:06:14] 8log message from thread Thread-0 AppNamespace
+INFO [26:06:2024 06:06:14] 8log message from thread Thread-1 AppNamespace
+INFO [26:06:2024 06:06:14] 9log message from thread Thread-0 AppNamespace
+INFO [26:06:2024 06:06:14] 9log message from thread Thread-1 AppNamespace
+INFO [26:06:2024 06:06:14] No user found for the phone number AppNamespace
